@@ -6,20 +6,27 @@ This project showcases a modern card design for a blog post or article. The desi
 
 **Key Features:**
 
-* **Clean and modern design:** Utilizes a bold color palette and simple geometric shapes for a visually appealing look.
-* **Visual hierarchy:** Prioritizes key information like the title and author with larger font sizes and prominent placement.
-* **Readability:** Uses a clear font and sufficient spacing for easy reading.
-* **[Optional] Responsive design:** The design adapts well to different screen sizes.
+- **Clean and modern design:** Utilizes a bold color palette and simple geometric shapes for a visually appealing look.
+- **Visual hierarchy:** Prioritizes key information like the title and author with larger font sizes and prominent placement.
+- **Readability:** Uses a clear font and sufficient spacing for easy reading.
+- **[Optional] Responsive design:** The design adapts well to different screen sizes.
 
 **Technologies Used:**
 
-* **HTML:** For structuring the content of the card.
-* **CSS:** For styling the card's appearance, including colors, fonts, and layout.
-* **[Optional] JavaScript:** If any interactive elements are included (e.g., hover effects, animations).
+- **HTML:** For structuring the content of the card.
+- **CSS:** For styling the card's appearance, including colors, fonts, and layout.
+- **[Optional] JavaScript:** If any interactive elements are included (e.g., hover effects, animations).
 
 **Getting Started:**
 
 1. **Clone the repository:**
    ```bash
-   git clone <[[repository_url](https://github.com/amir-mirzakhani/blog-view)]>
-   ![Card design](./assets/images/illustration-article.svg)
+   git clone <[https://github.com/amir-mirzakhani/blog-view]>
+
+   ```
+
+[[https://amir-mirzakhani.github.io/blog-view/]]
+
+<div>
+<img src="./assets/images/illustration-article.svg" alt="Card Design">
+</div>
