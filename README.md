@@ -21,4 +21,5 @@ This project showcases a modern card design for a blog post or article. The desi
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone <[[repository_url](https://github.com/amir-mirzakhani/blog-view)]>
+   ![Card design](./assets/images/illustration-article.svg)
